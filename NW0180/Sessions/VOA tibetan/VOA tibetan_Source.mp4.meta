@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MetaData>
-  <Video_Bit_Rate type="string">7 kbps</Video_Bit_Rate>
-  <Resolution type="string">640 x 358</Resolution>
-  <Frame_Rate type="string">6 frames/second</Frame_Rate>
+  <Video_Bit_Rate type="string">220 kbps</Video_Bit_Rate>
+  <Resolution type="string">640 x 360</Resolution>
+  <Frame_Rate type="string">29.97 frames/second</Frame_Rate>
 </MetaData>
